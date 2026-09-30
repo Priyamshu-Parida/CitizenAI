@@ -11,8 +11,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# ChromaDB
-vector_db/
+
 
 # Generated/processed data
 data/processed/
